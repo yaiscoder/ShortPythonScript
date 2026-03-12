@@ -15,4 +15,4 @@ It is a program that collects basic information
 5. If the participant meets the requirements, the program allows them to join the course. If not,
 the program shows a message saying the reqirements are not met.
 
-> Estado: The program is registering participants and validating the age and computer knowledge requirements.
+> Status: The program 

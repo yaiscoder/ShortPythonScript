@@ -15,4 +15,4 @@ It is a program that collects basic information
 5. If the participant meets the requirements, the program allows them to join the course. If not,
 the program shows a message saying the reqirements are not met.
 
-> Status: The program 
+> Status: The program is recording the information correctly without any errors.
